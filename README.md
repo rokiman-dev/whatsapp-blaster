@@ -26,7 +26,7 @@ WhatsApp Blaster is a desktop application designed to send messages to multiple 
 Ensure you have Python installed, then install the necessary Python packages:
 
 ```bash
-pip install selenium
+pip install -r requirements.txt
 ```
 
 You also need to ensure you have **Chrome** installed and download the appropriate version of **Chromedriver** from:  
