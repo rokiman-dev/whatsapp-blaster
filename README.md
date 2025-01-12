@@ -32,7 +32,7 @@ pip install selenium
 ```
 
 You also need to ensure you have **Chrome** installed and download the appropriate version of **Chromedriver** from:  
-[Chromedriver](https://sites.google.com/a/chromium.org/chromedriver/)
+[Chromedriver](https://googlechromelabs.github.io/chrome-for-testing/)
 
 ### 2. Prepare Your Files
 
