@@ -1,5 +1,3 @@
-Certainly! Here’s a simple README for your application:
-
 ---
 
 # WhatsApp Blaster
