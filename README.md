@@ -35,7 +35,7 @@ You also need to ensure you have **Chrome** installed and download the appropria
 ### 2. Prepare Your Files
 
 - Place your `chrome` folder, `chromedriver.exe`, and `userData` in the same directory as `run.py`.
-- The `chrome` folder contains the Chrome binary.
+- The `chrome` folder contains the Chrome binary or you can customize the path on your computer.
 - The `userData` folder stores session data for WhatsApp Web.
 - The `chromedriver.exe` should be placed in the `chromedriver` folder.
 
