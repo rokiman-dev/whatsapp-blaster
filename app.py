@@ -28,7 +28,7 @@ else:
     base_path = os.path.dirname(__file__)
 
 # chrome_path = os.path.join(base_path, 'chrome', 'chrome.exe')
-chrome_path = "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe"
+chrome_path = "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe" # customize the path of the chrome application on your computer
 chromedriver_path = os.path.join(base_path, 'chromedriver', 'chromedriver.exe')
 
 # Determine a persistent folder in the %temp% directory
